@@ -7,7 +7,7 @@
 
 #### Install
 
-`npm install git+ssh://git@github.com:chinylv/lib-flexible.git#2.0`
+`npm install git+https://github.com/chinylv/lib-flexible.git#2.0`
 
 #### Import
 
