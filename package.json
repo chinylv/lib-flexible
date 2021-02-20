@@ -1,6 +1,6 @@
 {
   "name": "amfe-flexible",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Build flexible page on mobile platform",
   "keywords": [
     "lib",
@@ -11,15 +11,15 @@
     "rem",
     "vw"
   ],
-  "homepage": "https://github.com/amfe/lib-flexible",
+  "homepage": "https://github.com/chinylv/lib-flexible",
   "repository": {
     "type": "git",
-    "url": "git@github.com:amfe/lib-flexible.git"
+    "url": "git@github.com:chinylv/lib-flexible.git"
   },
   "author": [
     {
-      "name": "mingelz",
-      "email": "mingelz@gmail.com"
+      "name": "chinylv",
+      "email": "chinylv@gmail.com"
     }
   ],
   "scripts": {
